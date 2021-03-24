@@ -1,0 +1,110 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: Brush Script MT, cursive;
+  margin: 2em;
+  background-color: slategrey;
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-family: Brush Script MT, cursive;
+}
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+.hidden {
+  display: none;
+}
+#button1 {
+  background: lightgreen;
+}
+#button1:active,
+#button1.lit {
+  background: green;
+}
+#button2 {
+  background: #005b96;
+}
+#button2:active,
+#button2.lit {
+  background: #03396c;
+}
+#button3 {
+  background: #79b473;
+}
+#button3:active,
+#button3.lit {
+  background: #70a37f;
+}
+#button4 {
+  background: #b3cde0;
+}
+#button4:active,
+#button4.lit {
+  background: #6497b1;
+}
+#button5 {
+  background: #f15152;
+}
+#button5:active,
+#button5.lit {
+  background: #815355;
+}
+#button6 {
+  background: #bda0bc;
+}
+#button6:active,
+#button6.lit {
+  background: #a2708a;
+}
+#button7 {
+  background: #ff8c42;
+}
+#button7:active,
+#button7.lit {
+  background: #B46735;
+}
+#button8 {
+  background: #22aaa1;
+}
+#button8:active,
+#button8.lit {
+  background: #84cae7;
+}
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 15px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4CAF50;
+  cursor: pointer;
+}
