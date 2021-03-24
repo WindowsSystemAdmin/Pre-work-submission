@@ -4,9 +4,9 @@
 
 Submitted by: Ethan Lin
 
-Time spent: **3.5** hours spent in total
+Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/canary-fixed-magnesium
 
 ## Required Functionality
 
@@ -40,7 +40,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 ![X]
-<img src="https://cdn.glitch.com/834fe0dd-1afa-41c7-aa28-23e05fa09eee%2FOverview-of-game.gif?v=1616616939941" width="250"><br>
+<img src="https://cdn.glitch.com/834fe0dd-1afa-41c7-aa28-23e05fa09eee%2Fezgif.com-gif-maker%20(1).gif?v=1616618627973" width="250"><br>
+<img src="https://cdn.glitch.com/834fe0dd-1afa-41c7-aa28-23e05fa09eee%2Fezgif.com-gif-maker%20(2).gif?v=1616618723209" width="250"><br>
 
 
 ## Reflection Questions
